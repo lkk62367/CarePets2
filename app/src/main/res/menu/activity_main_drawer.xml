@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="類別">
+            <menu>
+        <item
+            android:id="@+id/all"
+            android:icon="@drawable/all"
+            android:title="全部" />
+        <item
+            android:id="@+id/dog"
+            android:icon="@drawable/dog"
+            android:title="狗" />
+        <item
+            android:id="@+id/cat"
+            android:icon="@drawable/cat"
+            android:title="貓" />
+        <item
+            android:id="@+id/othrt"
+            android:icon="@drawable/other"
+            android:title="其他" />
+            </menu>
+        </item>
+    </group>
+
+
+<!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

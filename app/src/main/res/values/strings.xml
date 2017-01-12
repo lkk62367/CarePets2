@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CarePets</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="datasex">Sex:</string>
+    <string name="dataname">Name:</string>
+    <string name="datatype">Type:</string>
+    <string name="databuild">Build:</string>
+    <string name="dataage">Age:</string>
+    <string name="datavariety">Variety:</string>
+    <string name="datareason">Reason:</string>
+    <string name="dataacceptnum">AcceptNum:</string>
+    <string name="datachipnum">ChipNum:</string>
+    <string name="dataIsSterilization">IsSterilization:</string>
+    <string name="datahairtype">HairType:</string>
+    <string name="datanote">Note:</string>
+    <string name="dataResettlement">Resettlement:</string>
+    <string name="dataPhone">Phone:</string>
+    <string name="dataemail">Email:</string>
+    <string name="dataChildreAnlong">ChildreAnlong:</string>
+    <string name="dataAnimalAnlong">AnimalAnlong:</string>
+    <string name="dataBodyweight">Bodyweight:</string>
+    <string name="navvarall">All</string>
+    <string name="navdog">Dog</string>
+    <string name="navcat">Cat</string>
+    <string name="navother">Other</string>
+</resources>
